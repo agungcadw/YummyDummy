@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="meal">Meal</string>
+    <string name="welcome_liam">Welcome, Liam!</string>
+    <string name="find_the_menu_you_want">Find the menu you want?</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="_10_30">$10.30</string>
+    <string name="recommend">Recommend</string>
+</resources>
